@@ -1,0 +1,85 @@
+{
+glyphname = parenleft.case;
+kernRight = parenleft.case;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(425,-63,l),
+(327,26,o),
+(260,188,o),
+(260,365,cs),
+(260,531,o),
+(320,698,o),
+(425,793,c),
+(388,793,l),
+(283,697,o),
+(223,532,o),
+(223,365,cs),
+(223,198,o),
+(283,33,o),
+(388,-63,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = parenleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = parenleft;
+com.schriftgestaltung.hints = (
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+0,
+6
+);
+type = Stem;
+}
+);
+};
+width = 619;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(482,-63,l),
+(395,47,o),
+(340,212,o),
+(340,365,cs),
+(340,518,o),
+(395,683,o),
+(482,793,c),
+(320,793,l),
+(226,702,o),
+(155,531,o),
+(155,365,cs),
+(155,199,o),
+(226,28,o),
+(320,-63,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = parenleft;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = parenleft;
+};
+width = 619;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+R = parenthesis;
+};
+};
+}

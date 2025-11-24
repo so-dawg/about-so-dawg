@@ -1,0 +1,32 @@
+{
+color = 6;
+glyphname = Udotbelow.ss01;
+kernLeft = U;
+kernRight = U;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+ref = U;
+},
+{
+ref = dotbelowcomb.ss01;
+}
+);
+width = 619;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = U;
+},
+{
+ref = dotbelowcomb.ss01;
+}
+);
+width = 619;
+}
+);
+}

@@ -1,0 +1,248 @@
+{
+glyphname = three.tf;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(438,-8,o),
+(533,74,o),
+(533,197,cs),
+(533,287,o),
+(487,359,o),
+(395,378,c),
+(395,382,l),
+(476,405,o),
+(530,468,o),
+(530,553,cs),
+(530,664,o),
+(447,738,o),
+(310,738,cs),
+(182,738,o),
+(90,658,o),
+(85,541,c),
+(123,541,l),
+(129,638,o),
+(203,705,o),
+(310,705,cs),
+(418,705,o),
+(491,649,o),
+(491,552,cs),
+(491,458,o),
+(422,395,o),
+(300,395,cs),
+(248,395,l),
+(248,362,l),
+(315,362,ls),
+(421,362,o),
+(493,309,o),
+(493,198,cs),
+(493,93,o),
+(414,26,o),
+(294,26,cs),
+(185,26,o),
+(112,92,o),
+(106,189,c),
+(68,189,l),
+(73,72,o),
+(164,-8,o),
+(294,-8,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+monoWidth = 600;
+useSpacing = 90;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+34
+);
+stem = -2;
+target = (
+0,
+41
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+26
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+12
+);
+stem = -2;
+target = (
+0,
+19
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+38
+);
+stem = -2;
+target = (
+0,
+37
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+27
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+31
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+15
+);
+stem = -2;
+target = (
+0,
+16
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+22
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(463,-10,o),
+(579,69,o),
+(579,210,cs),
+(579,286,o),
+(536,350,o),
+(463,371,c),
+(463,378,l),
+(521,401,o),
+(563,459,o),
+(563,529,cs),
+(563,655,o),
+(461,730,o),
+(312,730,cs),
+(148,730,o),
+(46,640,o),
+(41,499,c),
+(224,499,l),
+(227,546,o),
+(259,572,o),
+(305,572,cs),
+(351,572,o),
+(378,549,o),
+(378,506,cs),
+(378,464,o),
+(350,435,o),
+(301,435,cs),
+(225,435,l),
+(225,297,l),
+(308,297,ls),
+(361,297,o),
+(388,271,o),
+(388,226,cs),
+(388,180,o),
+(358,148,o),
+(305,148,cs),
+(255,148,o),
+(218,176,o),
+(218,225,c),
+(34,225,l),
+(40,84,o),
+(137,-10,o),
+(306,-10,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+keepStroke = 40;
+monoWidth = 600;
+useSpacing = 70;
+};
+};
+width = 618;
+}
+);
+metricWidth = zero.tf;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = three;
+};
+};
+}

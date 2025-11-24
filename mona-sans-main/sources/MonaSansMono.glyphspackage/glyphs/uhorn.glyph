@@ -1,0 +1,39 @@
+{
+color = 7;
+glyphname = uhorn;
+kernLeft = u;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = -1;
+pos = (-14,0);
+ref = u;
+},
+{
+pos = (210,8);
+ref = horncomb;
+}
+);
+width = 600;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = -1;
+pos = (-15,0);
+ref = u;
+},
+{
+pos = (204,-46);
+ref = horncomb;
+}
+);
+width = 635;
+}
+);
+metricLeft = u;
+unicode = 432;
+}

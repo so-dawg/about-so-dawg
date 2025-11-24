@@ -1,0 +1,69 @@
+{
+color = 6;
+glyphname = quotedbl;
+kernLeft = quotedbl;
+kernRight = quotedbl;
+layers = (
+{
+background = {
+shapes = (
+{
+pos = (292,0);
+ref = quotesingle;
+},
+{
+pos = (453,0);
+ref = quotesingle;
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+alignment = 1;
+ref = quotesingle;
+},
+{
+alignment = 1;
+pos = (161,0);
+ref = quotesingle;
+}
+);
+width = 779;
+},
+{
+background = {
+shapes = (
+{
+pos = (142,0);
+ref = quotesingle;
+},
+{
+pos = (389,0);
+ref = quotesingle;
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+alignment = 1;
+ref = quotesingle;
+},
+{
+alignment = 1;
+pos = (247,0);
+ref = quotesingle;
+}
+);
+width = 865;
+}
+);
+unicode = 34;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

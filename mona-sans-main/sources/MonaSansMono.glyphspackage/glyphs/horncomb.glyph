@@ -1,0 +1,109 @@
+{
+glyphname = horncomb;
+layers = (
+{
+anchors = (
+{
+name = _topright;
+pos = (244,509);
+}
+);
+background = {
+anchors = (
+{
+name = _topright;
+pos = (214,522);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(322,489,o),
+(369,551,o),
+(347,632,c),
+(311,632,l),
+(327,561,o),
+(306,522,o),
+(214,522,c),
+(214,492,l)
+);
+}
+);
+};
+guides = (
+{
+pos = (288,602);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(339,480,o),
+(384,533,o),
+(374,637,c),
+(341,637,l),
+(350,549,o),
+(320,509,o),
+(244,509,c),
+(244,480,l)
+);
+}
+);
+width = 619;
+},
+{
+anchors = (
+{
+name = _topright;
+pos = (185,590);
+}
+);
+background = {
+anchors = (
+{
+name = _topright;
+pos = (185,541);
+}
+);
+shapes = (
+{
+closed = 1;
+nodes = (
+(358,427,o),
+(420,481,o),
+(420,607,c),
+(272,607,l),
+(272,559,o),
+(261,543,o),
+(185,541,c),
+(185,427,l)
+);
+}
+);
+};
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(364,472,o),
+(451,540,o),
+(430,676,c),
+(282,676,l),
+(292,609,o),
+(263,583,o),
+(185,590,c),
+(185,486,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+unicode = 795;
+}

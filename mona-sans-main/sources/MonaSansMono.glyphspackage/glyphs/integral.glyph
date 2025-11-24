@@ -1,0 +1,105 @@
+{
+glyphname = integral;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(280,-151,ls),
+(320,-151,o),
+(328,-126,o),
+(328,-99,cs),
+(328,693,l),
+(477,693,l),
+(477,729,l),
+(338,729,ls),
+(307,729,o),
+(290,707,o),
+(290,674,cs),
+(290,-116,l),
+(142,-116,l),
+(142,-151,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+12
+);
+stem = -2;
+target = (
+0,
+13
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+7
+);
+stem = -2;
+target = (
+0,
+4
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+11
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+}
+);
+};
+width = 619;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(246,-151,ls),
+(341,-151,o),
+(405,-94,o),
+(405,7,cs),
+(405,577,l),
+(539,577,l),
+(539,729,l),
+(372,729,ls),
+(277,729,o),
+(214,672,o),
+(214,570,cs),
+(214,0,l),
+(80,0,l),
+(80,-151,l)
+);
+}
+);
+width = 619;
+}
+);
+unicode = 8747;
+userData = {
+com.schriftgestaltung.Glyphs.lastChange = "2017-05-02 09:06:55 +0000";
+};
+}

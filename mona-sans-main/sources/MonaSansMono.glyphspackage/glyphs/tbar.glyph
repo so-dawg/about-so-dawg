@@ -1,0 +1,37 @@
+{
+color = 7;
+glyphname = tbar;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+alignment = -1;
+pos = (145,0);
+ref = t;
+},
+{
+pos = (122,0);
+ref = strokeshortcomb.t;
+}
+);
+width = 619;
+},
+{
+layerId = m020;
+shapes = (
+{
+alignment = -1;
+pos = (93,0);
+ref = t;
+},
+{
+pos = (84,-5);
+ref = strokeshortcomb.t;
+}
+);
+width = 618;
+}
+);
+unicode = 359;
+}

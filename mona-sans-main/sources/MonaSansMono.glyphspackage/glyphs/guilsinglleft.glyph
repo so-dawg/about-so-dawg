@@ -1,0 +1,49 @@
+{
+glyphname = guilsinglleft;
+kernLeft = guillemetleft;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(386,80,l),
+(273,299,l),
+(386,517,l),
+(353,517,l),
+(233,299,l),
+(353,80,l)
+);
+}
+);
+width = 619;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(455,64,l),
+(348,305,l),
+(455,544,l),
+(291,544,l),
+(162,305,l),
+(291,64,l)
+);
+}
+);
+width = 618;
+}
+);
+metricLeft = guillemetleft;
+metricRight = guillemetleft;
+unicode = 8249;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

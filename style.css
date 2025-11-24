@@ -1,0 +1,246 @@
+@font-face {
+  font-family: 'Mona Sans VF';
+  src: url('mona-sans-main/fonts/webfonts/variable/MonaSansVF[wdth,wght,opsz,ital].woff2') format('woff2-variations');
+  font-weight: 200 900;
+  font-stretch: 75% 125%;
+  font-style: normal;
+  font-display: swap;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Mona Sans VF', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container {
+  max-width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.container img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 1600px;
+}
+
+.header {
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #F1F1F1;
+  border-radius: 8px;
+  max-width: 100%;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 3, 0.5);
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  grid-column: 1/3;
+  z-index: 10;
+}
+
+#slide1 {
+  position: absolute;
+  animation: slide1 2.5s ease-out forwards;
+  animation-delay: 0.5s;
+}
+
+@keyframes slide1 {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#dawg {
+  font-family: 'Mona Sans VF';
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin-left: 10px;
+  letter-spacing: -0.025em;
+  margin-bottom: 0rem;
+  color: black;
+  text-decoration: none;
+}
+
+.content {
+  position: absolute;
+  left: 50%;
+  right: 10%;
+  bottom: 37%;
+  margin: 2rem 0;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  background-color: #F1F1F1;
+  border-radius: 8px;
+  margin: auto;
+  grid-column: 2/3;
+  justify-content: space-between;
+  box-shadow: 0 4px 8px rgba(0, 0, 3, 0.5);
+}
+
+.content p {
+  font-family: 'Mona Sans VF';
+  font-size: 1.5rem;
+  font-weight: 500;
+  max-width: 100%;
+  margin: 15px;
+  padding: 10px;
+  color: black;
+}
+
+.items {
+  position: relative; 
+  grid-column: 1/2;
+}
+
+#slide {
+  position: absolute;
+  left: -120%;
+  top: 35%;
+  max-width: 100%;
+  height: 450px;
+  width: 450px;
+  object-fit: cover;
+  object-position: top;
+  border-radius: 8px;
+  animation: slide 2.5s ease-out forwards;
+  animation-delay: 1.5s;
+  box-shadow: 0 4px 8px rgba(0, 0, 3, 0.5);
+  z-index: 1;
+}
+
+@keyframes slide {
+  0% {
+    opacity: 0;
+    transform: translateY(350px);
+  }
+  100% {
+    opacity: 1;
+    left: 20%;
+    transform: translateY(150px);
+  }
+}
+
+.dropdown {
+  position: static;
+  display: inline-block;
+}
+
+
+.dropdown-btn {
+  font-family: 'Mona Sans VF';
+  background-color: #333;
+  position: absolute;
+  color: #F1F1F1;
+  right: 2%;
+  bottom: 25%;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: background-color 0.3s ease;
+}
+   
+.dropdown-content {
+   display: none;
+   position: absolute;
+   background-color: #f9f9f9;
+   min-width: 160px;
+   box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
+   z-index: 1;
+   border-radius: 4px;
+   top: 100%;
+   right: 0;
+   left: auto;
+   overflow: hidden;
+}
+  
+.dropdown-content a {
+   font-family: 'Mona Sans VF';
+   color: #333;
+   padding: 12px 16px;
+   text-decoration: none;
+   display: block;
+   transition: background-color 0.3s;
+}
+  
+.dropdown-content a:hover {
+   background-color: #333;
+   color: #F1F1F1;
+}
+
+.dropdown-content.show {
+   display: block;
+}
+
+.dropdown:hover .dropdown-btn {
+   background-color: #555;
+}
+
+.email-box {
+  top: 100%;
+  left: 10%;
+  right: 60%;
+  background-color: #F1F1F1;
+  border-radius: 8px;
+  max-width: 100%;
+  padding: 10px;
+  margin: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 3, 0.5);
+  position: absolute;
+  grid-column: 1/2;
+  text-align: center;
+}
+
+.email-box a {
+  font-family: 'Mona Sans VF';
+  font-size: 1.5rem;
+  font-weight: 600;
+  padding: 10px;
+  margin: 10px;
+  color: #333;
+  padding: 10px;
+  text-decoration: none;
+}
+
+
+.github-stats {
+  position: absolute;
+  top: 100%;
+  left: 55%;
+  right: 10%;
+  background-color: #F1F1F1;
+  border-radius: 12px;
+  padding: 25px;
+  margin: 10px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+  text-align: center;
+}
+
+.github-stats h3 {
+  font-family: 'Mona Sans VF';
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: #333;
+  margin: 0 0 20px 0;
+}
+
+.github-stats img {
+  max-width: 100%;
+  height: auto;
+  margin: 12px 0;
+  border-radius: 8px;
+  display: block;
+}

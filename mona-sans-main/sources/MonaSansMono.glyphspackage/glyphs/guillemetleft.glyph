@@ -1,0 +1,70 @@
+{
+glyphname = guillemetleft;
+kernLeft = guillemetleft;
+kernRight = guillemetleft;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(313,80,l),
+(200,299,l),
+(313,517,l),
+(280,517,l),
+(160,299,l),
+(280,80,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(458,80,l),
+(345,299,l),
+(458,517,l),
+(425,517,l),
+(305,299,l),
+(425,80,l)
+);
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(326,64,l),
+(219,305,l),
+(326,544,l),
+(162,544,l),
+(33,305,l),
+(162,64,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(585,64,l),
+(478,305,l),
+(585,544,l),
+(421,544,l),
+(292,305,l),
+(421,64,l)
+);
+}
+);
+width = 619;
+}
+);
+unicode = 171;
+userData = {
+KernOnSpecialSpacing = {
+L = quotes;
+R = quotes;
+};
+};
+}

@@ -1,0 +1,196 @@
+{
+glyphname = five.tf;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(451,-8,o),
+(550,88,o),
+(550,232,cs),
+(550,371,o),
+(457,466,o),
+(317,466,cs),
+(234,466,o),
+(165,429,o),
+(131,373,c),
+(128,374,l),
+(152,695,l),
+(531,695,l),
+(531,729,l),
+(120,729,l),
+(91,332,l),
+(133,332,l),
+(160,390,o),
+(226,432,o),
+(311,432,cs),
+(429,432,o),
+(509,358,o),
+(509,230,cs),
+(509,109,o),
+(435,26,o),
+(307,26,cs),
+(199,26,o),
+(127,92,o),
+(121,189,c),
+(82,189,l),
+(88,72,o),
+(179,-8,o),
+(306,-8,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+monoWidth = 600;
+useSpacing = 90;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+24
+);
+stem = -2;
+target = (
+0,
+31
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+0,
+18
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+0,
+10
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+29,
+29
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+21
+);
+stem = -2;
+target = (
+0,
+2
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+28
+);
+stem = -2;
+target = (
+0,
+27
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(469,-10,o),
+(580,92,o),
+(580,244,cs),
+(580,382,o),
+(493,472,o),
+(359,472,cs),
+(310,472,o),
+(259,454,o),
+(241,433,c),
+(233,436,l),
+(248,555,l),
+(561,555,l),
+(561,721,l),
+(82,721,l),
+(51,271,l),
+(230,271,l),
+(240,302,o),
+(271,322,o),
+(308,322,cs),
+(356,322,o),
+(390,288,o),
+(390,237,cs),
+(390,192,o),
+(358,152,o),
+(306,152,cs),
+(264,152,o),
+(232,174,o),
+(225,207,c),
+(36,207,l),
+(48,77,o),
+(144,-10,o),
+(302,-10,cs)
+);
+}
+);
+userData = {
+RMXScaler = {
+keepStroke = 40;
+monoWidth = 600;
+useSpacing = 70;
+};
+};
+width = 618;
+}
+);
+metricWidth = zero.tf;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = five;
+};
+};
+}

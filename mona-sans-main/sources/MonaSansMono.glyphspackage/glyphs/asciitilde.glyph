@@ -1,0 +1,136 @@
+{
+glyphname = asciitilde;
+kernRight = asciitilde;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(136,301,l),
+(132,340,o),
+(151,363,o),
+(179,363,cs),
+(221,363,o),
+(285,315,o),
+(342,315,cs),
+(391,315,o),
+(431,343,o),
+(426,421,c),
+(396,421,l),
+(397,378,o),
+(378,357,o),
+(343,357,cs),
+(291,357,o),
+(233,405,o),
+(180,405,cs),
+(147,405,o),
+(100,389,o),
+(106,301,c)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+16
+);
+stem = -2;
+target = (
+0,
+3
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+13
+);
+stem = -2;
+target = (
+0,
+6
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+19
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+0,
+9
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(195,269,l),
+(192,292,o),
+(206,328,o),
+(244,328,cs),
+(299,328,o),
+(340,261,o),
+(439,261,cs),
+(505,261,o),
+(588,307,o),
+(578,465,c),
+(487,465,l),
+(486,433,o),
+(467,406,o),
+(427,406,cs),
+(360,406,o),
+(323,469,o),
+(238,469,cs),
+(159,469,o),
+(94,407,o),
+(104,269,c)
+);
+}
+);
+width = 618;
+}
+);
+metricWidth = zero.tf;
+unicode = 126;
+userData = {
+KernOnSpecialSpacing = {
+L = math;
+R = math;
+};
+};
+}

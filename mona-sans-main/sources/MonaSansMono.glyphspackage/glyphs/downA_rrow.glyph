@@ -1,0 +1,76 @@
+{
+glyphname = downArrow;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(302,151,l),
+(137,273,l),
+(137,231,l),
+(320,95,l),
+(503,231,l),
+(503,273,l),
+(338,151,l),
+(338,634,l),
+(302,634,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 619;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(226,293,l),
+(78,389,l),
+(78,223,l),
+(308,74,l),
+(538,223,l),
+(538,389,l),
+(390,293,l),
+(390,655,l),
+(226,655,l)
+);
+}
+);
+width = 619;
+}
+);
+unicode = 8595;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

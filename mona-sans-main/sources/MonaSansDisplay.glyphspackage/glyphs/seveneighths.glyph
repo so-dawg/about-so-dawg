@@ -1,0 +1,338 @@
+{
+color = 6;
+glyphname = seveneighths;
+layers = (
+{
+layerId = "E787E54A-EE3E-475A-BF02-8501A6DA5144";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (239,0);
+ref = fraction;
+},
+{
+pos = (358,0);
+ref = eight.dnom;
+}
+);
+width = 619;
+},
+{
+layerId = "5713303B-ED49-44A7-8230-B5CAE56DEB7E";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (186,0);
+ref = fraction;
+},
+{
+pos = (237,0);
+ref = eight.dnom;
+}
+);
+width = 508;
+},
+{
+layerId = "28A8A76A-23B4-40F5-83B9-DC51E48BF161";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (294,0);
+ref = fraction;
+},
+{
+pos = (395,0);
+ref = eight.dnom;
+}
+);
+width = 810;
+},
+{
+layerId = "D2144554-01B8-4B9B-B16A-E0E5B5794DFC";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (300,0);
+ref = fraction;
+},
+{
+pos = (423,0);
+ref = eight.dnom;
+}
+);
+width = 830;
+},
+{
+layerId = "71D8B5AD-B400-4239-9672-E7BA455EF2D0";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (168,0);
+ref = fraction;
+},
+{
+pos = (205,0);
+ref = eight.dnom;
+}
+);
+width = 436;
+},
+{
+layerId = "FFCA1F59-E305-4E0F-BBF9-E0C4511C19C1";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (217,0);
+ref = fraction;
+},
+{
+pos = (324,0);
+ref = eight.dnom;
+}
+);
+width = 567;
+},
+{
+layerId = "5A048DDA-4734-4F8A-A53C-0BED34B57D1C";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (241,0);
+ref = fraction;
+},
+{
+pos = (311,0);
+ref = eight.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = seven.numr;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = seven.numr;
+};
+width = 662;
+},
+{
+layerId = "DED42A87-C949-4722-A202-2B551272A3FB";
+shapes = (
+{
+alignment = -1;
+ref = seven.numr;
+},
+{
+alignment = -1;
+pos = (289,0);
+ref = fraction;
+},
+{
+alignment = -1;
+pos = (424,0);
+ref = eight.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = seven.numr;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = seven.numr;
+};
+width = 763;
+},
+{
+layerId = "106FCE83-F343-403B-A314-646E4D059B3F";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (284,0);
+ref = fraction;
+},
+{
+pos = (375,0);
+ref = eight.dnom;
+}
+);
+width = 770;
+},
+{
+layerId = "2D1A1AFE-39FB-4EBD-856C-88C6B057247F";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (282,0);
+ref = fraction;
+},
+{
+pos = (392,0);
+ref = eight.dnom;
+}
+);
+width = 779;
+},
+{
+layerId = m019;
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (302,0);
+ref = fraction;
+},
+{
+pos = (411,0);
+ref = eight.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = seven.numr;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = seven.numr;
+};
+width = 799;
+},
+{
+layerId = m020;
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (298,0);
+ref = fraction;
+},
+{
+pos = (427,0);
+ref = eight.dnom;
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = seven.numr;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = seven.numr;
+};
+width = 779;
+},
+{
+layerId = "23BA42C1-D468-4A44-9BE5-E18AE60B7926";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (188,0);
+ref = fraction;
+},
+{
+pos = (248,0);
+ref = eight.dnom;
+}
+);
+width = 519;
+},
+{
+layerId = "2D4E69BA-A319-45D0-84B7-5297BCF4B7A0";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (240,0);
+ref = fraction;
+},
+{
+pos = (374,0);
+ref = eight.dnom;
+}
+);
+width = 633;
+},
+{
+layerId = "095FE76F-1953-440B-9108-AA0678D151F9";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (297,0);
+ref = fraction;
+},
+{
+pos = (417,0);
+ref = eight.dnom;
+}
+);
+width = 808;
+},
+{
+layerId = "63AAE8D6-1DFF-4DD4-BD9A-49272FE52904";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (316,0);
+ref = fraction;
+},
+{
+pos = (483,0);
+ref = eight.dnom;
+}
+);
+width = 856;
+},
+{
+layerId = "C17B1F32-8075-45B4-AA59-7DAFF0D7E404";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (298,0);
+ref = fraction;
+},
+{
+pos = (410,0);
+ref = eight.dnom;
+}
+);
+width = 824;
+},
+{
+layerId = "377EF8AC-8B0D-46C2-96BB-3B5B69A8F571";
+shapes = (
+{
+ref = seven.numr;
+},
+{
+pos = (322,0);
+ref = fraction;
+},
+{
+pos = (462,0);
+ref = eight.dnom;
+}
+);
+width = 867;
+}
+);
+unicode = 8542;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

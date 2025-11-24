@@ -1,0 +1,96 @@
+{
+glyphname = rightArrow;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(42,347,l),
+(525,347,l),
+(403,182,l),
+(445,182,l),
+(581,365,l),
+(445,548,l),
+(403,548,l),
+(525,383,l),
+(42,383,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+21
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+-20
+);
+stem = -2;
+target = (
+d,
+o,
+w,
+n
+);
+type = TopGhost;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(22,283,l),
+(384,283,l),
+(288,135,l),
+(454,135,l),
+(603,365,l),
+(454,595,l),
+(288,595,l),
+(384,447,l),
+(22,447,l)
+);
+}
+);
+width = 618;
+}
+);
+unicode = 8594;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+};
+}

@@ -1,0 +1,134 @@
+{
+glyphname = seven.tf;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(291,0,l),
+(291,315,o),
+(416,507,o),
+(552,704,c),
+(552,729,l),
+(82,729,l),
+(82,530,l),
+(116,530,l),
+(116,696,l),
+(506,696,l),
+(373,499,o),
+(251,307,o),
+(251,0,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+monoWidth = 600;
+useSpacing = 90;
+};
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+12
+);
+stem = -2;
+target = (
+u,
+p
+);
+type = BottomGhost;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+5
+);
+stem = -2;
+target = (
+0,
+8
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+6
+);
+stem = -2;
+target = (
+0,
+7
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+12
+);
+stem = -2;
+target = (
+0,
+0
+);
+type = Stem;
+}
+);
+};
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,0,l),
+(396,284,o),
+(473,422,o),
+(583,582,c),
+(583,721,l),
+(44,721,l),
+(44,445,l),
+(192,445,l),
+(192,555,l),
+(361,555,l),
+(281,438,o),
+(195,266,o),
+(195,0,c)
+);
+}
+);
+userData = {
+RMXScaler = {
+keepStroke = 40;
+monoWidth = 600;
+useSpacing = 70;
+};
+};
+width = 618;
+}
+);
+metricWidth = zero.tf;
+userData = {
+KernOnSpecialSpacing = {
+L = NoKerning;
+R = NoKerning;
+};
+RMXScaler = {
+source = seven;
+};
+};
+}

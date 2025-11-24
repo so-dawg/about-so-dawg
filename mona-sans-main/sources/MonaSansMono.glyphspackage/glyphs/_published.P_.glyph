@@ -1,0 +1,188 @@
+{
+export = 0;
+glyphname = _published.P;
+layers = (
+{
+anchors = (
+{
+name = _center;
+pos = (269,363);
+}
+);
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(199,165,l),
+(199,532,l),
+(313,532,ls),
+(378,532,o),
+(418,499,o),
+(418,440,cs),
+(418,382,o),
+(379,347,o),
+(313,347,cs),
+(192,347,l),
+(192,319,l),
+(317,319,ls),
+(400,319,o),
+(452,367,o),
+(452,441,cs),
+(452,517,o),
+(400,562,o),
+(318,562,cs),
+(167,562,l),
+(167,165,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = copyright;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = copyright;
+com.schriftgestaltung.hints = (
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+1,
+8
+);
+stem = -2;
+target = (
+0,
+1
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+origin = (
+0,
+9
+);
+stem = -2;
+target = (
+1,
+0
+);
+type = Stem;
+},
+{
+horizontal = 1;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+0,
+10
+);
+stem = -2;
+target = (
+1,
+8
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+origin = (
+1,
+4
+);
+stem = -2;
+target = (
+0,
+5
+);
+type = Stem;
+},
+{
+horizontal = 0;
+options = 0;
+place = (
+0,
+0
+);
+stem = -2;
+type = Stem;
+}
+);
+};
+width = 619;
+},
+{
+anchors = (
+{
+name = _center;
+pos = (288,365);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(263,167,l),
+(263,471,l),
+(293,471,ls),
+(326,471,o),
+(355,466,o),
+(355,426,cs),
+(355,382,o),
+(326,378,o),
+(293,378,cs),
+(247,378,l),
+(247,293,l),
+(328,293,ls),
+(445,293,o),
+(494,349,o),
+(494,429,cs),
+(494,515,o),
+(439,564,o),
+(328,564,cs),
+(124,564,l),
+(124,167,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.leftMetricsKey = copyright;
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = copyright;
+};
+width = 618;
+}
+);
+metricLeft = "=40";
+metricRight = "=40";
+}

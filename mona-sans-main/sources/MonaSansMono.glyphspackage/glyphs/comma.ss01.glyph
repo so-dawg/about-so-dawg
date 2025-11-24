@@ -1,0 +1,114 @@
+{
+glyphname = comma.ss01;
+kernLeft = comma.ss01;
+kernRight = quotedblbase.ss01;
+layers = (
+{
+anchors = (
+{
+name = "#entry";
+pos = (230,0);
+},
+{
+name = "#exit";
+pos = (370,0);
+},
+{
+name = top;
+pos = (309,517);
+}
+);
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(275,-145,ls),
+(312,-139,o),
+(330,-115,o),
+(330,-68,cs),
+(330,62,l),
+(285,57,l),
+(285,0,l),
+(306,0,l),
+(306,-63,ls),
+(306,-96,o),
+(298,-113,o),
+(274,-118,cs),
+(269,-119,l),
+(269,-146,l)
+);
+}
+);
+};
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(280,-143,ls),
+(314,-135,o),
+(330,-117,o),
+(330,-71,cs),
+(330,61,l),
+(288,57,l),
+(288,0,l),
+(306,0,l),
+(306,-60,ls),
+(306,-90,o),
+(305,-110,o),
+(280,-116,cs),
+(276,-117,l),
+(276,-144,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
+};
+width = 618;
+},
+{
+anchors = (
+{
+name = "#entry";
+pos = (188,0);
+},
+{
+name = "#exit";
+pos = (448,0);
+},
+{
+name = top;
+pos = (309,544);
+}
+);
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(253,-177,ls),
+(340,-177,o),
+(398,-142,o),
+(398,-31,cs),
+(398,174,l),
+(219,162,l),
+(219,0,l),
+(300,0,l),
+(300,-24,ls),
+(300,-63,o),
+(280,-85,o),
+(229,-85,cs),
+(204,-85,l),
+(204,-177,l)
+);
+}
+);
+userData = {
+com.schriftgestaltung.Glyphs.glyph.rightMetricsKey = period;
+};
+width = 618;
+}
+);
+}

@@ -1,0 +1,62 @@
+{
+glyphname = exclam.ss01;
+layers = (
+{
+layerId = m019;
+shapes = (
+{
+closed = 1;
+nodes = (
+(319,186,l),
+(329,493,l),
+(329,729,l),
+(290,729,l),
+(290,493,l),
+(299,186,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(351,0,l),
+(351,80,l),
+(272,80,l),
+(272,0,l)
+);
+}
+);
+width = 618;
+},
+{
+layerId = m020;
+shapes = (
+{
+closed = 1;
+nodes = (
+(360,261,l),
+(410,487,l),
+(410,729,l),
+(210,729,l),
+(210,487,l),
+(261,261,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(404,0,l),
+(404,187,l),
+(215,187,l),
+(215,0,l)
+);
+}
+);
+width = 619;
+}
+);
+userData = {
+KernOnSpecialSpacing = {
+L = "spaced-off";
+};
+};
+}
