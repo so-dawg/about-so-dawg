@@ -136,61 +136,22 @@ body {
   }
 }
 
-.dropdown {
-  position: static;
-  display: inline-block;
-}
-
-
 .dropdown-btn {
-  font-family: 'Mona Sans VF';
-  background-color: #333;
-  position: absolute;
-  color: #F1F1F1;
-  right: 2%;
-  bottom: 25%;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 4px;
-  font-size: 1rem;
-  font-weight: 500;
-  transition: background-color 0.3s ease;
+  display: none;
 }
-   
+
 .dropdown-content {
-   display: none;
-   position: absolute;
-   background-color: #f9f9f9;
-   min-width: 160px;
-   box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
-   z-index: 1;
-   border-radius: 4px;
-   top: 100%;
-   right: 0;
-   left: auto;
-   overflow: hidden;
+  display: inline-block;
+  align-items: space-between;
 }
-  
+
 .dropdown-content a {
-   font-family: 'Mona Sans VF';
-   color: #333;
-   padding: 12px 16px;
-   text-decoration: none;
-   display: block;
-   transition: background-color 0.3s;
-}
-  
-.dropdown-content a:hover {
-   background-color: #333;
-   color: #F1F1F1;
-}
-
-.dropdown-content.show {
-   display: block;
-}
-
-.dropdown:hover .dropdown-btn {
-   background-color: #555;
+  font-size: 20px;
+  text-decoration: none;
+  color: #333;
+  font-family: 'Mona Sans VF';
+  font-weight: 400;
+  padding: 10px;
 }
 
 .email-box {
@@ -343,6 +304,63 @@ body {
   .dropdown-btn {
     font-size: 0.9rem;
     padding: 8px 16px;
+  }
+
+  .dropdown {
+    position: static;
+    display: inline-block;
+  }
+
+  .dropdown-btn {
+    font-family: 'Mona Sans VF';
+    background-color: #333;
+    position: absolute;
+    color: #F1F1F1;
+    right: 2%;
+    bottom: 13%;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1rem;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+    display: inline;
+  }
+   
+  .dropdown-content {
+     display: none;
+     position: absolute;
+     background-color: #f9f9f9;
+     min-width: 160px;
+     box-shadow: 0px 8px 16px rgba(0,0,0,0.1);
+     z-index: 1;
+     border-radius: 4px;
+     top: 100%;
+     right: 0;
+     left: auto;
+     overflow: hidden;
+  }
+  
+  .dropdown-content a {
+     font-family: 'Mona Sans VF';
+     color: #333;
+     padding: 12px 16px;
+     text-decoration: none;
+     display: block;
+     transition: background-color 0.3s;
+  }
+  
+  .dropdown-content a:hover {
+     background-color: #333;
+     color: #F1F1F1;
+  }
+  
+  .dropdown-content.show {
+     display: block;
+  }
+
+  .dropdown:hover .dropdown-btn {
+     background-color: #555;
   }
 }
 
